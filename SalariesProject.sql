@@ -151,4 +151,4 @@ BEGIN
 END//
 DELIMITER ;
 
-call GetAverageSalary
+call GetAverageSalary()
